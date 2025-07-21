@@ -1,5 +1,5 @@
 # Digital Health CRC (DHCRC)
-### Transforming healthcare for all Australians through data and digital technologies
+### Transforming healthcare for all Australians through data and digital technologies.
 
 
 ---
