@@ -21,7 +21,7 @@ We unite **academia, industry, and government** to accelerate research implement
 ### 📧 **Contact**
 - **Website**: [digitalhealthcrc.com](https://digitalhealthcrc.com)
 - **LinkedIn**: [@digital-health-crc](https://linkedin.com/company/digital-health-crc)
-- **Email**: Contact us through our website
+- **Email**: * info@dhcrc.com * media@dhcrc.com
 
 ---
 
